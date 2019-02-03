@@ -5,7 +5,7 @@ Created Feb 2 2019.
 Publish to GIT Project
 
 ### Description
-Describe what your project is about and what it does
+This project is about learning how to use GIT and putting a repo on GITHUB.
 
 ### Files used
 Include the files used
