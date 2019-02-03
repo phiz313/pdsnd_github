@@ -11,4 +11,4 @@ This project is about learning how to use GIT and putting a repo on GITHUB.
 Used data from three states on their bikeshare stats
 
 ### Credits
-The credit all goes to the Udacity class
+The credit all goes to the Udacity class instructors
