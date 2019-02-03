@@ -8,7 +8,7 @@ Publish to GIT Project
 This project is about learning how to use GIT and putting a repo on GITHUB.
 
 ### Files used
-Include the files used
+Used data from three states on their bikeshare stats
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The credit all goes to the Udacity class
