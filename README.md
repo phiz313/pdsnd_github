@@ -2,7 +2,7 @@
 Created Feb 2 2019.
 
 ### Project Title
-Replace the Project Title
+Publish to GIT Project
 
 ### Description
 Describe what your project is about and what it does
